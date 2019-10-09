@@ -1,20 +1,26 @@
 ## PALI dictionary (correction tool)
 
-**The biggest Pali dictionary project**
+<p align="center">
+  <img src="https://github.com/dxcore35/knowledge/blob/master/.gitbook/assets/monk.jpg" width="700" alt="accessibility text">
+</p>
+<p></p>
 
 Proposal for the building of the tool for:
-
+ 
 - collection of all existing Pali language dictionaries
 - rating and correction of the translation by Pali schollars or monastics
 - producing various dictionaries files as output
 
 ## NEED HELP:
 
-```diff
-! Somebody who is willing to help with data cleaning (scripting experts, regex experts, database experst)
-! Somebody with skills to build serious database and build web UI in top of it
-! Any additional ideas or new Pali dictionaries datasets
-```
+<p align="center">
+  <img src="https://github.com/dxcore35/massive_Pali-dictionary/blob/master/readme_files/looking.jpg" width="500" alt="accessibility text">
+</p>
+<p></p>
+
+- Anybody who is willing to help with data cleaning (scripting experts, regex experts, database experst)
+- Anybody with skills to build serious database and build web UI in top of it
+- Any additional ideas, feedback or new Pali dictionaries datasets
 
 ## DONE:
 
@@ -34,11 +40,10 @@ Proposal for the building of the tool for:
 
 Here is my proposal of the database structure. I started project as simple MS Access database, with queries executing VB scripts (mainly when transcribing the words to different language). But soon I have realized that the project is too big to be build in MS Acesss. As I don't have any experiences building the databases in other way, the regarding the database stops here. This is the database structure from MS Access:
 
-![db](/Users/dxcore35/Documents/Projects/Big Pali dictionary/db.jpg)
+![](https://github.com/dxcore35/massive_Pali-dictionary/blob/master/readme_files/db.jpg)
 
 ## 2. Building of standard tables 2
-
-![db](/Users/dxcore35/Documents/Projects/Big Pali dictionary/standardtables.jpg)
+![](https://github.com/dxcore35/massive_Pali-dictionary/blob/master/readme_files/standardtables.jpg)
 
 **Tables for diacritic transcription**
 
